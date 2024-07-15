@@ -1,0 +1,30 @@
+body{
+    border: 1px solid;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.container{
+    margin: 100px 50px 100px 100px;
+}
+
+table{
+    width: 100%;
+    padding: 5px 5px 5px 5px;   
+}
+
+#pic{
+    height: 200px;
+    width: 200px;
+    float: right;
+}
+
+#signature{
+    height: 50px;
+    width: 100px;
+    margin-left: 520px;
+}
+
+#name{
+    float: right;
+}
